@@ -1,5 +1,5 @@
 ## Olá 👋, Aqui está um pouco sobre mim.
-![Snake animation](https://github.com/alexmpereira/alexmpereira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrunoTomitao/BrunoTomitao/blob/output/github-contribution-grid-snake.svg)
 - Estudo HTML e CSS.
 - Estudo PHP, Java e JS.
 - Sou Técnico em Informática.
