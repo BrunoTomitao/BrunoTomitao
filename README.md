@@ -1,3 +1,4 @@
+ ![Snake animation](https://github.com/alexmpereira/alexmpereira/blob/output/github-contribution-grid-snake.svg)
 ## Olá 👋, Aqui está um pouco sobre mim. 
 - Estudo HTML e CSS.
 - Estudo PHP, Java e JS.
