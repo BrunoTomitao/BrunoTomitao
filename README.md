@@ -1,4 +1,3 @@
- ![Snake animation](https://github.com/alexmpereira/alexmpereira/blob/output/github-contribution-grid-snake.svg)
 ## Olá 👋, Aqui está um pouco sobre mim. 
 - Estudo HTML e CSS.
 - Estudo PHP, Java e JS.
@@ -7,6 +6,7 @@
 - Gosto muito de carros.
 - Gosto de música.
 - Gosto de Jogos.
+![Snake animation](https://github.com/alexmpereira/alexmpereira/blob/output/github-contribution-grid-snake.svg)
 ## Linguagens.
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTomitao&layout=compact)
   <div style="display: inline_block"><br>
