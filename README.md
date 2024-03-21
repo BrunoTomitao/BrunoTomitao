@@ -16,4 +16,3 @@
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   </div>
 
-  ![Snake animation](https://github.com/BrunoTomitao/BrunoTomitao/blob/output/github-contribution-grid-snake.svg)
