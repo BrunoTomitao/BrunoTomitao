@@ -35,7 +35,15 @@ Sou apaixonado por tecnologia, desenvolvimento web e mobile. Estou sempre aprend
 ## 📊 Contador de Visitas
 
 ![](https://komarev.com/ghpvc/?username=BrunoTomitao)
+
+
+---
+
+
+## 📊 Linguagens mais usadas
+
 ![](https://github-readme-stats.vercel.app/api?username=BrunoTomitao)
+
 
 ---
 
