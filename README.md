@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e mobile. Estou sempre aprend
 
 ## 📊 Contador de Visitas
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brunodev.github.profile)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BrunoTomitao.github.profile)
 
 ---
 
