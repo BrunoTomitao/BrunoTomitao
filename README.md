@@ -9,6 +9,8 @@ Sou apaixonado por tecnologia, desenvolvimento web e mobile. Estou sempre aprend
 ## 🧠 Sobre mim
 
 - 👨‍💻 Sou Técnico em Informática
+- 🎓 Estudo na faculdade **Unialfa Umuarama**
+- 💼 Trabalho no setor de **TI** na **Cama InBox**
 - 💻 Estudo HTML, CSS, JavaScript, PHP e Java
 - 🌐 Desenvolvo projetos com **Laravel**, **React**, **Bootstrap** e **Flutter**
 - 📱 Tenho conhecimento em desenvolvimento **mobile** com **Flutter**
