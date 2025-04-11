@@ -40,7 +40,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e mobile. Estou sempre aprend
 ---
 
 
-## 📊 Linguagens mais usadas
+## 📊 Análise
 
 ![](https://github-readme-stats.vercel.app/api?username=BrunoTomitao)
 
