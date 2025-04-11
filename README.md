@@ -1,3 +1,5 @@
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&pause=3000&color=F70000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Bruno+Tomitao)](https://git.io/typing-svg)
+
 <h1 align="center">Olá 👋, eu sou o Bruno!</h1>
 
 <p align="center">
