@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&pause=3000&color=F70000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Bruno+Tomitao)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&pause=3000&color=72727E&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Bruno+Cherbaty+Tomitao+de+Alencar)](https://git.io/typing-svg)
 
 <h1 align="center">Olá 👋, eu sou o Bruno!</h1>
 
