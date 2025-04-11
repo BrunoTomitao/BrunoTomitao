@@ -1,7 +1,4 @@
-<p align="center">
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&pause=3000&color=496DDB&width=435&lines=Ol%C3%A1+👋,+meu+nome+%C3%A9+Bruno+Cherbaty+Tomitao+de+Alencar+👋)](https://git.io/typing-svg)
-</p>
-
+<h1 align="center">Olá 👋, eu sou o Bruno Cherbaty Tomitao de Alencar!</h1>
 <p align="center">
 Sou apaixonado por tecnologia, desenvolvimento web e mobile. Estou sempre aprendendo coisas novas e me desafiando a evoluir como dev. 🚀
 </p>
