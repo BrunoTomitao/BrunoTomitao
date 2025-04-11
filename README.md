@@ -59,8 +59,8 @@ Sou apaixonado por tecnologia, desenvolvimento web e mobile. Estou sempre aprend
 
 Me chama por aqui ou me adicione nas redes sociais:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- [Instagram](https://www.instagram.com/seu-usuario)  
+- [LinkedIn](https://www.linkedin.com/in/bruno-cherbaty-de-alencar-89b6a4266/)  
+- [Instagram](https://www.instagram.com/bruno_cherbaty)  
 - [Portfólio (se tiver)](https://seusite.com)  
 
 ---
