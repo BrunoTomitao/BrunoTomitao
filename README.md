@@ -1,6 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Bruno Cherbaty Tomitao de Alencar!</h1>
 <p align="center">
 Sou apaixonado por tecnologia, desenvolvimento web e mobile. Estou sempre aprendendo coisas novas e me desafiando a evoluir como dev. 🚀
+Atualmente sou Dev Front-End e ajudo no Back-End na CamaInBox
 </p>
 
 ---
